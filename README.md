@@ -10,7 +10,7 @@ Read not to contradict and confute; nor to believe and take for granted; nor to 
 
 One datapoint does not the graph make. ~ Unknown redditor
 
-Compress time between conceptualization to execution. ~ A friend.
+Compress time from conceptualization to execution. ~ A friend "B"
 
 
 <!--
