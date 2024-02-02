@@ -1,10 +1,15 @@
 ### Hi there! :)
 
 #### [Quotes]
+
 The best thing about being a statistician is you get to play in everybody else's backyard. ~ John Tukey
+
 Mathematics is the Music of reason. ~ James Joseph Sylvester
+
 Read not to contradict and confute; nor to believe and take for granted; nor to find and discourse; but to weigh and consider. ~ Francis Bacon
+
 One datapoint does not the graph make. ~ Unknown redditor
+
 Compress time between conceptualization to execution. ~ A friend.
 
 
