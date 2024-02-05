@@ -12,6 +12,8 @@ One datapoint does not the graph make. ~ Unknown redditor
 
 Compress time from conceptualization to execution. ~ A friend "B"
 
+Data explorer's motto - Visualize, visualize, visualize!
+
 
 <!--
 **arvinsingh/arvinsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
