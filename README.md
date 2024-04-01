@@ -1,4 +1,4 @@
-# Hi there! I turn raw data into gold mines of insights, I'm not a wizard, just a data scientist wielding math and code.
+# I turn raw data into gold mines of insights, I'm not a wizard, just a data scientist wielding math and code.
 
 ---
 #### [Quotes]
