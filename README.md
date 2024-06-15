@@ -5,17 +5,12 @@
 
 The best thing about being a statistician is you get to play in everybody else's backyard. ~ John Tukey
 
-Mathematics is the Music of reason. ~ James Joseph Sylvester
-
-Read not to contradict and confute; nor to believe and take for granted; nor to find and discourse; but to weigh and consider. ~ Francis Bacon
+Data explorer's motto - Visualize, visualize, visualize!
 
 One datapoint does not the graph make. ~ Unknown redditor
 
 Compress time from conceptualization to execution. ~ A friend "B"
 
-Data explorer's motto - Visualize, visualize, visualize!
-
-From the paradise, that Cantor created for us, no-one shall be able to expel us. ~ David Hilbert
 
 ---
 ## Tech Stack:
