@@ -3,12 +3,6 @@
 
 The best thing about being a statistician is you get to play in everybody else's backyard. ~ John Tukey
 
-Data explorer's motto - Visualize, visualize, visualize!
-
-One datapoint does not the graph make. ~ Unknown redditor
-
-Compress time from conceptualization to execution. ~ A friend "B"
-
 
 ---
 ## Tech Stack:
